@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e6e75844-29b0-42a8-876f-45cf5d4fcfee",
+  "export_job_id": "20dc5260-4a6b-4fa5-bf10-e40ba3207a3d",
   "id_short": 906534,
-  "published_at": "2026-04-15T19:59:03Z",
+  "published_at": "2026-04-19T19:47:16Z",
   "repo_name": "high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-ohio-sample-906534",
   "sample_asset_name": "beamstation_906534_food_and_drink-us-oh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/906534/beamstation_906534_food_and_drink-us-oh_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "fee11c757cd310d293511f701726657357cba7e93f94bf46fe2fd1cd87b716e9",
-  "sample_size_bytes": 142389,
-  "total_records": 328
+  "sample_records": 39,
+  "sample_sha256": "80b219dafabbb1f0b3a04dd77819be8dda89f46840878edab3bd15934326f066",
+  "sample_size_bytes": 168973,
+  "total_records": 395
 }
