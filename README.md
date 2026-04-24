@@ -1,6 +1,6 @@
 # High-Volume Restaurants Experiencing a 30%+ Crash This Quarter in Ohio
 
-> Free BeamStation sample export with 39 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `906534` |
 | Location | Ohio |
 | Category | Food and Drink |
-| Full dataset size | 395 records |
-| Free sample size | 39 records (9.87%) |
-| Last export | 2026-04-17T00:42:37.624340+00:00 |
+| Full dataset size | 424 records |
+| Free sample size | 42 records (9.91%) |
+| Last export | 2026-04-23T18:49:47.553027+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-ohio-sample-906534/releases/download/sample-latest/beamstation_906534_food_and_drink-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
